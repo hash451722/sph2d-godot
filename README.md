@@ -4,11 +4,13 @@
 ## 1. 支配方程式 (Governing equation)
 
 **連続の式 (Equation of continuity)**
+
 $$
 \frac{D \rho}{D t} + \rho \nabla \cdot {\bf v} = 0 \tag{1-1}
 $$
 
 **ナビエ・ストークス方程式 (Navier-Stokes equation)**
+
 $$
 \frac{D {\bf v}}{D t} = -\frac{1}{\rho} \nabla p + \frac{\mu}{\rho} \nabla^2 {\bf v} + {\bf f} \tag{1-2}
 $$
